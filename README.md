@@ -4,17 +4,6 @@
 
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniAfro&layout=compact&theme=gotham&hide_border=true" align="left" width="395"/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=GiovanniAfro&show_icons=true&theme=gotham" align="right" width="395"/>
-
-</div>
-
-<div style="clear:both;"></div>
-
-
 ### 🛠 Technology
 ![Bash](https://img.shields.io/badge/-Bash-5391FE?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -29,6 +18,13 @@
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/-WebSockets-FFFFFF?style=flat-square&logo=websockets&logoColor=black)
 
-### 👨‍💻 About Me
-Sono Giovanni Cavanna, un appassionato sviluppatore e educatore nel campo del software, attualmente basato a Firenze. Con una forte enfasi sulla programmazione sistemica e sullo sviluppo web, sto sempre cercando nuove sfide che mi permettano di esplorare e integrare nuove tecnologie con approcci pratici e innovativi. Oltre alla mia passione per la tecnologia, sono impegnato nello studio della psicologia per comprendere meglio l'interazione tra uomo e computer, un campo che trovo incredibilmente stimolante e promettente.
+<div style="display:flex; align-items: flex-start;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniAfro&layout=compact&theme=gotham&hide_border=true" />
+
+  <div>
+    <h3>👨‍💻 About Me</h3>
+    <p>Sono Giovanni Cavanna, un appassionato sviluppatore e educatore nel campo del software, attualmente basato a Firenze. Con una forte enfasi sulla programmazione sistemica e sullo sviluppo web, sto sempre cercando nuove sfide che mi permettano di esplorare e integrare nuove tecnologie con approcci pratici e innovativi.</p>
+    <p>Oltre alla mia passione per la tecnologia, sono impegnato nello studio della psicologia per comprendere meglio l'interazione tra uomo e computer, un campo che trovo incredibilmente stimolante e promettente.</p>
+  </div>
+</div>
 
