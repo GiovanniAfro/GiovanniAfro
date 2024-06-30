@@ -4,7 +4,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrbff&layout=compact&theme=gotham&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannicavanna&layout=compact&theme=gotham&hide_border=true" />
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=nestjs,java,c,cpp,cmake,angular,vue" />
@@ -14,7 +14,7 @@
   <img src="https://skillicons.dev/icons?i=bash,solidity,prisma,postgres,linux,git,docker,kubernetes" />
 </a>
 
-<a href="https://www.linkedin.com/in/marco-baffo/">
+<a href="https://www.linkedin.com/in/giovanni-cavanna/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 
