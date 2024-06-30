@@ -14,10 +14,9 @@
 <td style="padding:10px;">
 
 <!-- Qui puoi inserire una GIF o una citazione -->
-<img <iframe src="https://giphy.com/embed/zOvBKUUEERdNm" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/coding-zOvBKUUEERdNm">via GIPHY</a></p> />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWY1NnB1dGtqNWlmcWU5d2Z6MWM4MHpjdXd6dXU2aXpzYWt1cm53MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/200.webp" alt="Coding GIF" />
 <!-- Oppure -->
 <blockquote>
-  ""
 </blockquote>
 
 </td>
