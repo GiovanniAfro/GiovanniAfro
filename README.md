@@ -4,7 +4,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannicavanna&layout=compact&theme=gotham&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanniAfro&layout=compact&theme=gotham&hide_border=true" />
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=nestjs,java,c,cpp,cmake,angular,vue" />
