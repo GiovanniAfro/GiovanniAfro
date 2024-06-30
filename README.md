@@ -4,7 +4,6 @@
 
 </div>
 
-- [LinkedIn](http://www.linkedin.com/in/giovanni-cavanna)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniAfro&layout=compact&theme=gotham&hide_border=true" />
 
