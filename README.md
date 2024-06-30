@@ -14,10 +14,10 @@
 <td style="padding:10px;">
 
 <!-- Qui puoi inserire una GIF o una citazione -->
-<img src="URL_ALLA_TUA_GIF" alt="Coding GIF" />
+<img <iframe src="https://giphy.com/embed/zOvBKUUEERdNm" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/coding-zOvBKUUEERdNm">via GIPHY</a></p> />
 <!-- Oppure -->
 <blockquote>
-  "Il coding è come l'arte - ogni nuova riga di codice è un pennello su una tela infinita."
+  ""
 </blockquote>
 
 </td>
