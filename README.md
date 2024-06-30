@@ -5,4 +5,4 @@
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 
 <!--img src="https://github-readme-streak-stats.herokuapp.com?user=mrbff&theme=gotham&hide_border=true" /-->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrbff&layout=compact&theme=gotham&hide_border=true" />
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=mrbff&layout=compact&theme=gotham&hide_border=true](https://github.com/GiovanniAfro)" />
