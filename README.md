@@ -4,12 +4,27 @@
 
 </div>
 
-<div style="display:flex; align-items: flex-start;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniAfro&layout=compact&theme=gotham&hide_border=true" />
+<table>
+<tr>
+<td>
 
-  <div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniAfro&layout=compact&theme=gotham&hide_border=true" />
 
-  ### 🛠 Technology
+</td>
+<td style="padding:10px;">
+
+<!-- Qui puoi inserire una GIF o una citazione -->
+<img src="URL_ALLA_TUA_GIF" alt="Coding GIF" />
+<!-- Oppure -->
+<blockquote>
+  "Il coding è come l'arte - ogni nuova riga di codice è un pennello su una tela infinita."
+</blockquote>
+
+</td>
+</tr>
+</table>
+
+### 🛠 Tecnology
 ![Bash](https://img.shields.io/badge/-Bash-5391FE?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -22,5 +37,4 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/-WebSockets-FFFFFF?style=flat-square&logo=websockets&logoColor=black)
-
 
