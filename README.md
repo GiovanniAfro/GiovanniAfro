@@ -4,7 +4,12 @@
 
 </div>
 
-### 🛠 Technology
+<div style="display:flex; align-items: flex-start;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniAfro&layout=compact&theme=gotham&hide_border=true" />
+
+  <div>
+
+  ### 🛠 Technology
 ![Bash](https://img.shields.io/badge/-Bash-5391FE?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -18,13 +23,4 @@
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/-WebSockets-FFFFFF?style=flat-square&logo=websockets&logoColor=black)
 
-<div style="display:flex; align-items: flex-start;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniAfro&layout=compact&theme=gotham&hide_border=true" />
-
-  <div>
-    <h3>👨‍💻 About Me</h3>
-    <p>Sono Giovanni Cavanna, un appassionato sviluppatore e educatore nel campo del software, attualmente basato a Firenze. Con una forte enfasi sulla programmazione sistemica e sullo sviluppo web, sto sempre cercando nuove sfide che mi permettano di esplorare e integrare nuove tecnologie con approcci pratici e innovativi.</p>
-    <p>Oltre alla mia passione per la tecnologia, sono impegnato nello studio della psicologia per comprendere meglio l'interazione tra uomo e computer, un campo che trovo incredibilmente stimolante e promettente.</p>
-  </div>
-</div>
 
