@@ -4,10 +4,17 @@
 
 </div>
 
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniAfro&layout=compact&theme=gotham&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniAfro&layout=compact&theme=gotham&hide_border=true" align="left" width="395"/>
 
-### 🛠 Tecnology
+<img src="https://github-readme-stats.vercel.app/api?username=GiovanniAfro&show_icons=true&theme=gotham" align="right" width="395"/>
+
+</div>
+
+<div style="clear:both;"></div>
+
+### 🛠 Technology
 ![Bash](https://img.shields.io/badge/-Bash-5391FE?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -20,3 +27,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/-WebSockets-FFFFFF?style=flat-square&logo=websockets&logoColor=black)
+
+### 👨‍💻 About Me
+Sono Giovanni Cavanna, un appassionato sviluppatore e educatore nel campo del software, attualmente basato a Firenze. Con una forte enfasi sulla programmazione sistemica e sullo sviluppo web, sto sempre cercando nuove sfide che mi permettano di esplorare e integrare nuove tecnologie con approcci pratici e innovativi. Oltre alla mia passione per la tecnologia, sono impegnato nello studio della psicologia per comprendere meglio l'interazione tra uomo e computer, un campo che trovo incredibilmente stimolante e promettente.
+
