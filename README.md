@@ -8,7 +8,7 @@
 <tr>
 <td>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniAfro&layout=compact&theme=gotham&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniAfro&layout=compact&theme=gotham&hide_border=true&hide=html,roof" />
 
 </td>
 <td style="padding:10px;">
